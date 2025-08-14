@@ -83,7 +83,7 @@ docker run -p 7860:7860 tcs-chatbot
 
 ## 👤 Author
 
-**Raj Pathak** ([`@Raj`](https://huggingface.co/Raj))
+**Raj** ([`@Raj`](https://huggingface.co/Raj))
 GenAI & LLM Developer • Specialised in fine‑tuning, RAG, transformers
 
 ---
